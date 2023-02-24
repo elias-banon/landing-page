@@ -1,0 +1,38 @@
+.banner{
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%),url(../../images/background.jpg);
+  color: white;
+  padding: 150px 0px;
+  background-size: cover ;
+  background-position: center;
+  margin-bottom: 100px;
+}
+
+.banner h1{
+  color: white;
+  font-size: 50px;
+  margin: 0 auto;
+  margin-bottom: 80px;
+
+}
+
+
+.banner h1:hover {
+  color: white;
+  font-size: 50px;
+  opacity: 0.8;
+}
+
+.banner h2 {
+  font-family: Helvetica;
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+  font-weight: lighter;
+  opacity: 0.8;
+}
